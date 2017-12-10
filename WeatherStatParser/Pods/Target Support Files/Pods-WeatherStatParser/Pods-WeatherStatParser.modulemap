@@ -1,0 +1,6 @@
+framework module Pods_WeatherStatParser {
+  umbrella header "Pods-WeatherStatParser-umbrella.h"
+
+  export *
+  module * { export * }
+}
