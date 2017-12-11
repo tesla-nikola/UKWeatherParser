@@ -1,0 +1,9 @@
+1. From the scattered points graph for the rainfall in the month of July in UK we can see that the amount of rainfall from year to year in the period of
+2000-2017, is varying at much higher rate than any other period.
+
+2. From the scattered points graph for the mean temperature in the month of july in UK , we can see that the average temperature for the
+period of 2000-2017 has rise a little bit i.e they are above 12C, indicating the most probable cause i.e global warming.
+
+3. From the scattered point graph for the minimum temperature in the mont of january in UK, we can see that there have less 
+instances of sub zero temperature in the period of 2000-2017 than in any other period. UK might be having less colder winter
+seasons.
